@@ -1,4 +1,4 @@
-# alpaca-watchlist-bot
+# Alpaca Watchlist Bot
 
 `alpaca-watchlist-bot` is a small Python trading helper built around the Alpaca brokerage API. It runs as a daily price-check job over a JSON watchlist, tracks multi-day price direction streaks, and either sends email alerts or places simple market orders depending on how each symbol is configured.
 
